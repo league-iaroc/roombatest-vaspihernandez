@@ -19,7 +19,7 @@ public class Challenge extends Head {
 	public void initialize() {
 		driveDirect(155, 120);
 		driveDirect(155,120);
-		driveDirect(155,120);
+		driveDirect(,);
 		
 	}
 
