@@ -18,6 +18,6 @@ public class Challenge extends Head {
 	}
 
 	public void loop() {
-	
+		roomba.driveDirect(20, 25);
 	}
 }

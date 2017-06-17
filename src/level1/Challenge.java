@@ -17,9 +17,9 @@ public class Challenge extends Head {
 	 * use sleep an driveDirect 
 	 */
 	public void initialize() {
-		//write code here!
-		
-		
+		driveDirect(155, 120);
+		driveDirect(155,120);
+		driveDirect(155,120);
 		
 	}
 
